@@ -40,6 +40,9 @@ When you first open the extension, you'll see a "Setup Required" screen. Follow 
 4. **Theme (Optional):** Select Light or Dark mode.
 5. Click **Save Settings**.
 
+<img width="913" height="976" alt="image" src="https://github.com/user-attachments/assets/d9a55ee7-ddb7-44b8-8f3f-d93963812782" />
+
+
 ---
 
 ## 💬 How to Use
@@ -50,6 +53,9 @@ Once configured, the main chat interface will unlock.
 * **Transport:** Ensure the transport method (e.g., `sse`) is correctly selected for your server.
 * **Chatting:** Type a message into the chat box. The LLM will automatically evaluate your request, review the MCP tools available on the selected server, and execute them natively in the background to assist you!
 * **Manage Sessions:** Use the sidebar to create new chat threads, switch between historical conversations, or export a chat log to Markdown.
+
+<img width="994" height="969" alt="image" src="https://github.com/user-attachments/assets/3188f256-fd06-4cfa-9d1b-5610c5c7404e" />
+
 
 ## 🔒 Privacy & Data
 This extension runs completely on your local client (in your browser). It communicates directly with the Google Gemini / OpenAI APIs and your MCP Admin API. No intermediate proxy servers are used, keeping your API keys securely stored within your local Chrome browser storage.
